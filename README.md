@@ -1,6 +1,4 @@
-```{r winpro_dh, fig.align = 'center', echo = FALSE}
-knitr::include_graphics("figs/no_participants.png")
-```
+![no_participants])(/figs/no_participants.png)
 
 ## Welcome to GitHub Pages
 
