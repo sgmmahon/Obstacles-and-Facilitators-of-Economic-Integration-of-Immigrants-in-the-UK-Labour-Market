@@ -1,4 +1,4 @@
-![no_participants])(/figs/no_participants.png)
+![no_participants](/figs/no_participants.png)
 
 ## Welcome to GitHub Pages
 
