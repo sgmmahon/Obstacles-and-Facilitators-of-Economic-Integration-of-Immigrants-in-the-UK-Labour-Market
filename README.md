@@ -1,3 +1,7 @@
+```{r winpro_dh, fig.align = 'center', echo = FALSE}
+knitr::include_graphics("figs/no_participants.png")
+```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sgmmahon/sgmmahon.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
